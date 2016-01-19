@@ -1,9 +1,9 @@
 {
-  "name": "redux-tube",
+  "name": "react-tube",
   "version": "1.0.0",
-  "description": "Simple Redux app that uses the Youtube API",
+  "description": "Simple React app that uses the Youtube API",
   "main": "index.js",
-  "repository": "https://github.com/nickarora/redux-tube.git",
+  "repository": "https://github.com/nickarora/react-tube.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
